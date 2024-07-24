@@ -11,15 +11,9 @@ Data Sources: The data used for this project includes employee demographics, job
 Power BI Dashboard: The main component of this project is a Power BI dashboard that visualizes the key metrics related to employee attrition in the field of Human Resources, Research and Development and Sales.
 
 Visualizations
-Attrition by Education:
-Breakdown of attrition rates by education level, including fields like Medical, Marketing, Life Sciences, and Technical.
-Attrition by Age:
-Visualization of attrition count across different age groups (18-25, 26-35, 36-45, 46-55, 55+).
-Attrition by Job Satisfaction:
-Analysis of attrition based on job satisfaction levels across various job roles (e.g., Healthcare Representative, Human Resources, Laboratory Technician, Manager, etc.).
-Attrition by Salary:
-Attrition trends segmented by salary ranges (Upto 5k, 5k-10k, 10k-15k, 15k+).
-Attrition by Job Role:
-Attrition count visualized by different job roles (e.g., Sales Executive, Research Scientist, Sales Representative).
-Attrition by Gender:
-Comparison of attrition rates between male and female employees.
+Attrition by Education: Breakdown of attrition rates by education level, including fields like Medical, Marketing, Life Sciences, and Technical.
+Attrition by Age: Visualization of attrition count across different age groups.
+Attrition by Job Satisfaction: Analysis of attrition based on job satisfaction levels across various job roles (e.g., Healthcare Representative, Human Resources, Laboratory Technician, Manager, etc.).
+Attrition by Salary: Attrition trends segmented by salary ranges.
+Attrition by Job Role: Attrition count visualized by different job roles (e.g., Sales Executive, Research Scientist, Sales Representative).
+Attrition by Gender: Comparison of attrition rates between male and female employees.
